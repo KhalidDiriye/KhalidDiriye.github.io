@@ -171,6 +171,7 @@ var projects =
                               'Diagrams.pdf',
                               'Dorking.pdf',
                               'CC_Registration.pdf',
+                              'Sec_Strategy',
                               'optitera'
                               ]);},
               }
