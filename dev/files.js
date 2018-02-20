@@ -56,7 +56,7 @@ var dorking =
 
 var sec_strats =
     {
-        name: "sec_starts",
+        name: "sec_strats",
         type: "pdf",
         link: "Security_Strategy.pdf"
     };
