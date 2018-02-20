@@ -78,7 +78,6 @@ var resume_txt =
 \n                                  Khalid Diriye\
 \n kdiriye18@gmail.com                                                 507-210-7776\
 \n\
-\n3B Honours Mathematics - Computer Science Major, Statistics Major, Econ Minor\
 \n********************************************************************************\
 \n\
 \n   Technical Skills: Python, Unix/Linux, Bash, C#, Windows (XP/7/8/10), Linux (Ubuntu/Kali), and Mac OS (El Capitan/Sierra)\
