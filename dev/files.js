@@ -54,6 +54,13 @@ var dorking =
         link: "Dorking.pdf"
     };
 
+var sec_strats =
+    {
+        name: "sec_starts",
+        type: "pdf",
+        link: "Security_Strategy.pdf"
+    };
+
 
 var resume_pdf =
     {
@@ -153,7 +160,7 @@ var projects =
     {
         name: "projects",
         type: "folder",
-        kids: [excelformscompare, optitera, bhr, cc, dorking, diagrams],
+        kids: [excelformscompare, optitera, bhr, cc, dorking, diagrams, sec_strats],
         back: home,
         setg: { prompt: '[[b;lawngreen;black]khalid.d:/projects~] ',
                 name:   'khalid.d',
