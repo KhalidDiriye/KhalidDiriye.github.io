@@ -30,35 +30,35 @@ var bhr =
     {
         name: "BHR_System",
         type: "pdf",
-        link: "BHR_System.pdf"
+        link: "projects/BHR_System.pdf"
     };
 
 var cc = 
     {
         name: "CC_Regristration",
         type: "pdf",
-        link: "CC_Regristration.pdf"
+        link: "projects/CC_Regristration.pdf"
     };
 
 var diagrams = 
     {
         name: "Diagrams",
         type: "pdf",
-        link: "Diagrams.pdf"
+        link: "projects/Diagrams.pdf"
     };
 
 var dorking = 
     {
         name: "Dorking",
         type: "pdf",
-        link: "Dorking.pdf"
+        link: "projects/Dorking.pdf"
     };
 
 var sec_strats =
     {
         name: "sec_strats",
         type: "pdf",
-        link: "Security_Strategy.pdf"
+        link: "projects/Security_Strategy.pdf"
     };
 
 
@@ -66,7 +66,7 @@ var resume_pdf =
     {
         name: "KhalidDiriyeResume",
         type: "pdf",
-        link: "KhalidDiriyeResume.pdf"
+        link: "`KhalidDiriyeResume.pdf"
     };
 
 var resume_txt =
