@@ -1,3 +1,3 @@
 # Projects
 
-Here you can find some projects I've done.
+Here you can find some projects I've done. You also find my coding projects [here](https://github.com/KhalidDiriye?tab=repositories "here")
